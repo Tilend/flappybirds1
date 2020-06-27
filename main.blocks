@@ -32,4 +32,4 @@ c 2 e e 2 2 2 2 e 2 5 4 2 c 8 .
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field></shadow></value><value name="kind"><shadow type="spritekind" id="[,VSdJI3N/E/aV38ypuV"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="[,VSdJI3N/E/aV38ypuV"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="controls_if" id="12x*|,#cpp;omYB[xr7U"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean" id="1#;ieE+MEIImgv%uOwpv"><field name="BOOL">TRUE</field></shadow></value></block></next></block></statement></block></xml>
